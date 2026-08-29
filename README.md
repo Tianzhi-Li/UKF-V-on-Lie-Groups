@@ -1,4 +1,4 @@
-# Variational Unscented Kalman Filter on Matrix Lie Groups (Automatica 2025)
+# UKF-V on Matrix Lie Groups (Automatica 2025)
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://doi.org/10.1016/j.automatica.2024.111995)
 [![Project Page](https://img.shields.io/badge/Project-Website-b31b1b?logo=googlechrome&logoColor=red)](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)
