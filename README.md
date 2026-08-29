@@ -15,7 +15,7 @@ This repository contains the implementation of the following paper:
 
 ## :arrow_down: Download & Run
 
-1. Download codes from the file **codes**
+1. Download codes from the foler **codes**
 
    ```bash
    Variational_UKF_SO3.m
