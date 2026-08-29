@@ -1,5 +1,8 @@
 # UKF-V on Matrix Lie Groups (Automatica 2025)
 
+*Project Page*: https://tianzhi-li.github.io/UKF-V-on-Lie-Groups/
+
+
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://doi.org/10.1016/j.automatica.2024.111995)
 [![Project Page](https://img.shields.io/badge/Project-Website-b31b1b?logo=googlechrome&logoColor=red)](https://tianzhi-li.github.io/UKF-V-on-Lie-Groups/)
 
@@ -7,7 +10,6 @@ This repository contains the implementation of the following paper:
 > **Variational Unscented Kalman Filter on Matrix Lie Groups**<br>
 > [Tianzhi Li](https://tianzhi-li.github.io/) and [Jinzhi Wang](https://www.researchgate.net/profile/Jinzhi-Wang-2)<br>
 **Automatica**, 2025
-> Project Page: https://tianzhi-li.github.io/UKF-V-on-Lie-Groups/
 
 From Peking University
 
