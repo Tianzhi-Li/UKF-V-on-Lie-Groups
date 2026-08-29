@@ -9,7 +9,7 @@
 This repository contains the implementation of the following paper:
 > **Variational Unscented Kalman Filter on Matrix Lie Groups**<br>
 > [Tianzhi Li](https://tianzhi-li.github.io/) and [Jinzhi Wang](https://www.researchgate.net/profile/Jinzhi-Wang-2)<br>
-**Automatica**, 2025
+**Automatica**, 172: 111995, 2025
 
 
 
