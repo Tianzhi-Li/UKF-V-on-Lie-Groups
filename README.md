@@ -38,7 +38,7 @@ Run the main file:
 
    ```bibtex
     @article{LiWang2025,
-        author = {Huang, Ziqi and Chan, Kelvin C.K. and Jiang, Yuming and Liu, Ziwei},
+        author = {Li, Tianzhi and Wang, Jinzhi},
         title = {Variationial Unscented Kalman Filter on Matrix Lie Groups},
         journal={Automatica},
         volume = {172},
